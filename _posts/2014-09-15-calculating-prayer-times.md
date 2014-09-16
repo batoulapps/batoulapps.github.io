@@ -9,7 +9,7 @@ What time is Maghrib? A question often followed by reaching for your smartphone.
 
 ### Sunrise, Dhuhr, and Maghrib
 
-Most apps will display the times for the five daily prayers (Fajr, Dhuhr, Asr, Maghrib, and Isha) as well as the time for sunrise (sometimes called *Shurooq*) to indicate when the time for Fajr has ended. Of these times, sunrise, Dhuhr and Maghrib do not change based on any settings. Sunrise is defined as when the sun begins to appear over the horizon. Dhuhr is when the sun begins to decline after having reached its highest point (midday). And Maghrib is when the sun has completely disappeared beneath the horizon. While some methods may add an additional minute or two as a precaution, you should not generally see any significant variation in these times.
+Most apps will display the times for the five daily prayers (Fajr, Dhuhr, Asr, Maghrib, and Isha) as well as the time for sunrise (sometimes called *Shuruq*) to indicate when the time for Fajr has ended. Of these times, sunrise, Dhuhr and Maghrib do not change based on any settings. Sunrise is defined as when the sun begins to appear over the horizon. Dhuhr is when the sun begins to decline after having reached its highest point (midday). And Maghrib is when the sun has completely disappeared beneath the horizon. While some methods may add an additional minute or two as a precaution, you should not generally see any significant variation in these times.
 
 
 ### Asr
