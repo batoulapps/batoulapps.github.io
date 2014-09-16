@@ -10,6 +10,7 @@ layout: default
     <li>
       <a href="{{ post.url }}" class="entry-link">{{ post.title }}</a>
       <span class="entry-date">Published {{ post.date | date: "%B %-d, %Y" }}</span>
+      {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>

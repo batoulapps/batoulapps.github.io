@@ -4,7 +4,7 @@ title: All About Prayer Times
 author: ameir
 ---
 
-What time is Maghrib? A question often followed by reaching for your smartphone. Today most people get prayer times from an app on their smartphone or computer, there are many readily available. Most of these apps require the user to choose several settings in order to obtain the correct prayer times. [Guidance](http://guidanceapp.com/) will automatically choose defaults it thinks are correct for your location, but still contains these settings in case the defaults are not correct. So what are these settings and how do they affect prayer times? To better understand them, let's take a look at where prayer times come from.
+What time is Maghrib? A question often followed by reaching for your smartphone. Today most people get prayer times from an app on their smartphone or computer. Most prayer time apps require the user to choose several settings in order to obtain the correct prayer times. [Guidance](http://guidanceapp.com/) will automatically choose defaults it thinks are correct for your location, but still contains these settings in case the defaults are not correct. So what are these settings and how do they affect prayer times? To better understand them, let's take a look at where prayer times come from.
 
 
 ### Sunrise, Dhuhr, and Maghrib
@@ -31,7 +31,7 @@ At latitudes of 55 degrees and higher, it no longer makes sense to calculate the
 
 ### Small Variations in Time
 
-Sometimes people notice that prayer times from their smartphone are not exactly the same as the prayer times posted at a local masjid or published on a website. There can be many different reasons for this difference. Smartphones using a GPS provide prayer times for your precise location, while websites usually calculate times for the center of a particular city. This can cause a noticable difference in large cities. Additionaly, the ways in which calculations are rounded can also cause variations in prayer times. However, these small differences should not be a cause for concern. Before the use of computers, prayer times were only determined by observing the sky, a method which does not allow for exact precision. While it is important to strive to be as accurate as possible when performing our prayers, we should understand that prayer times are not an exact science.
+Sometimes people notice that prayer times from their smartphone are not exactly the same as the prayer times posted at a local masjid or published on a website. There can be many different reasons for this difference. Smartphones using a GPS provide prayer times for your precise location, while websites usually calculate times for the center of a particular city. This can cause a noticable difference in large cities. Additionaly, the ways in which calculations are rounded can also cause variations in prayer times. These small differences do not mean that one prayer time is valid or the other is invalid. Before the use of computers, prayer times were only determined by observing the sky, a method which does not allow for exact precision. While it is important to strive to be as accurate as possible when performing our prayers, variations of only a few minutes should not be a cause for concern.
 
 
 ### Source Code
