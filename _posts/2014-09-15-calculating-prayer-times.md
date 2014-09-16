@@ -4,7 +4,7 @@ title: All About Prayer Times
 author: ameir
 ---
 
-What time is Maghrib? A question often followed by reaching for your smartphone. Today most people get prayer times from an app on their smartphone or computer. Most prayer time apps require the user to choose several settings in order to obtain the correct prayer times. [Guidance](http://guidanceapp.com/) will automatically choose defaults it thinks are correct for your location, but still contains these settings in case the defaults are not correct. So what are these settings and how do they affect prayer times? To better understand them, let's take a look at where prayer times come from.
+What time is Maghrib? A question often followed by reaching for your smartphone. People generally rely on an app on their smartphone or computer to know when it is time to pray. Most prayer time apps require the user to choose several settings in order to obtain the correct prayer times. [Guidance](http://guidanceapp.com/) will automatically choose defaults it thinks are correct for your location, but still contains these settings in case the defaults are not correct. So what are these settings and how do they affect prayer times? To better understand them, let's take a look at where prayer times come from.
 
 
 ### Sunrise, Dhuhr, and Maghrib
