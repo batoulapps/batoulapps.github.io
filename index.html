@@ -1,1 +1,15 @@
-Salam Alaikum
+---
+title: Batoul Apps
+layout: default
+---
+
+<p>Various techno babble on Cocoa development, maintaining APIs and interesting thoughts formed while developing <a href="http://batoulapps.com">our apps</a>.</p>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}" class="entry-link">{{ post.title }}</a>
+      <span class="entry-date">Published {{ post.date | date: "%B %-d, %Y" }}</span>
+    </li>
+  {% endfor %}
+</ul>

@@ -1,0 +1,22 @@
+{% include header.html %}
+{% assign author = site.data.authors[page.author] %}
+
+<div class="header">
+	<a href="/">Batoul Apps Developer Blog</a>
+</div>
+
+<div class="post">
+	<h1><a href="{{ page.url }}">{{ page.title  }}</a></h1>
+	{{ content }}
+
+	<div class="footer">
+		<h4>Written By</h4>
+		<span class="author"><a href="{{ author.web }}">{{ author.name }}</a></span>
+
+		<h5>Published on</h5>
+		<span class="date">{{ page.date | date: "%B %-d, %Y" }}</span>
+	</div>
+
+</div>
+
+{% include footer.html %}
