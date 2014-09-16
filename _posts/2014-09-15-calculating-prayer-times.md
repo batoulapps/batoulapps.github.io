@@ -4,7 +4,7 @@ title: All About Prayer Times
 author: ameir
 ---
 
-What time is Maghrib? A question often followed by reaching for your smartphone. People generally rely on an app on their smartphone or computer to know when it is time to pray. Most prayer time apps require the user to choose several settings in order to obtain the correct prayer times. [Guidance](http://guidanceapp.com/) will automatically choose defaults it thinks are correct for your location, but still contains these settings in case the defaults are not correct. So what are these settings and how do they affect prayer times? To better understand them, let's take a look at where prayer times come from.
+What time is Maghrib? A question often followed by reaching for your smartphone. People generally rely on an app on their smartphone or computer to know when it is time to pray. Most prayer time apps require the user to choose various settings in order to obtain the correct prayer times, specifically madhab and calculation method. [Guidance](http://guidanceapp.com/) will automatically choose defaults it thinks are correct for your location, but still contains these settings in case the defaults are not correct. So what are these settings and how do they affect prayer times? To better understand them, let's take a look at where prayer times come from.
 
 
 ### Sunrise, Dhuhr, and Maghrib
@@ -21,7 +21,7 @@ Asr can be calculated in two different ways based on which *madhab* (school of t
 
 Fajr and Isha take place when the sun is not visible. They are determined by the presence of twilight, the light from the sun when it is below the horizon. The time for Fajr begins at what is called *true dawn* (*alfajr alsadiq*), which occurs when the morning twilight spreads across the sky and fills the horizon. The time for Isha begins when the evening twilight (*shafaq*) in the sky has disappeared. 
 
-The darkest definition of twilight is called *astronomical twilight*, which occurs in the morning when the sun is 18 degrees below the horizon until the sun rises and in the evening when the sun sets until it drops to 18 degrees below the horizon. However, at some locations, astronomical twilight does not exactly coincide with *alfajr alsadiq* and *shafaq*. And for locations above 48.5 degrees latitude (such as the UK and northern Europe), the sun never falls below 18 degrees and twilight doesn't actually end. To compensate for these issues, the various *calculation method* settings offer different degrees for the sun's position to determine morning and evening twilight.
+The darkest definition of twilight is called *astronomical twilight*, which occurs in the morning when the sun is 18 degrees below the horizon until the sun rises and in the evening when the sun sets until it drops to 18 degrees below the horizon. However, at some locations, astronomical twilight does not exactly coincide with *alfajr alsadiq* and *shafaq*. And for locations above 48.5 degrees latitude (such as the UK and northern Europe), the sun never falls below 18 degrees and twilight doesn't actually end. To compensate for these issues, the different *calculation method* settings offer different degrees for the sun's position to determine morning and evening twilight.
 
 
 ### Remote Locations
