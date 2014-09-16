@@ -219,4 +219,5 @@ pre {
 .main li a.continue {
 	text-decoration: none;
 	font-weight: bold;
+	white-space: nowrap;
 }
