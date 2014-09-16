@@ -204,9 +204,19 @@ pre {
 	font-size: 12px;
 	color: #b3b3b3;
 	line-height: 1;
+	padding: 0px 0px 8px 0px;
 }
 
 .main ul {
 	margin: 0px;
 	list-style-type: none;
+}
+
+.main li p {
+	font-size: 17px;
+}
+
+.main li a.continue {
+	text-decoration: none;
+	font-weight: bold;
 }

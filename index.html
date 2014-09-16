@@ -10,7 +10,7 @@ layout: default
     <li>
       <a href="{{ post.url }}" class="entry-link">{{ post.title }}</a>
       <span class="entry-date">Published {{ post.date | date: "%B %-d, %Y" }}</span>
-      {{ post.excerpt }}
+      <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}<a class="continue" href="{{ post.url }}">Continue reading &gt;&gt;</a></p>
     </li>
   {% endfor %}
 </ul>
