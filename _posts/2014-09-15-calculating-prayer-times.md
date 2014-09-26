@@ -50,15 +50,16 @@ which occurs when the morning twilight spreads across the sky and fills the
 horizon. The time for Isha begins when the evening twilight (*shafaq*) in the 
 sky has disappeared. 
 
-The darkest definition of twilight is called *astronomical twilight*, which 
-occurs in the morning when the sun is 18 degrees below the horizon until the 
-sun rises and in the evening when the sun sets until it drops to 18 degrees 
-below the horizon. However, at some locations, astronomical twilight does not 
-exactly coincide with *alfajr alsadiq* and *shafaq*. And for locations above 
-48.5 degrees latitude (such as the UK and northern Europe), the sun never falls 
-below 18 degrees and twilight doesn't actually end. To compensate for these 
-issues, the different *calculation method* settings offer alternative degrees 
-for the sun's position to determine morning and evening twilight.
+Twilight's darkest point (when there is the least amount of light in the sky) 
+is called *astronomical twilight*, which occurs in the morning when the sun 
+is 18 degrees below the horizon until the sun rises and in the evening when 
+the sun sets until it drops to 18 degrees below the horizon. However, at some 
+locations, astronomical twilight does not exactly coincide with *alfajr 
+alsadiq* and *shafaq*. And for locations above 48.5 degrees latitude (such as 
+the UK and northern Europe), the sun never falls below 18 degrees and 
+twilight doesn't actually end. To compensate for these issues, the 
+different *calculation method* settings offer alternative degrees for 
+the sun's position to determine morning and evening twilight.
 
 
 ### Remote Locations
