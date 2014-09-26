@@ -11,11 +11,13 @@
 {{ content }}
 
 <div class="footer">
-	<h4>Written By</h4>
-	<span class="author"><a href="{{ author.web }}">{{ author.name }}</a></span>
-
-	<h5>Published on</h5>
-	<span class="date">{{ page.date | date: "%B %-d, %Y" }}</span>
+	<div class="photo" style="background-image:url(/images/authors/{{ author.photo }});"></div>
+	<div class="info">
+		<h4>Written By</h4>
+		<span class="author"><a href="{{ author.web }}">{{ author.name }}</a></span>
+		<h5>Published on</h5>
+		<span class="date">{{ page.date | date: "%B %-d, %Y" }}</span>
+	</div>
 </div>
 
 </div>
