@@ -1,0 +1,285 @@
+---
+---
+
+$sanserif-font: "Open Sans","Myriad Pro","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
+$serif-font: 'Droid Serif', Georgia, Cambria, 'Times New Roman', Times, serif;
+$monospace-font: Consolas,Monaco,'Andale Mono',monospace;
+
+/* Default element styles */
+
+html { 
+	font-size: 100%;
+	text-rendering: optimizeLegibility;
+}
+
+body {
+	font-family: $serif-font;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 1.6;
+    background: #fff;
+    color: #333;
+	margin: 0px;
+	padding: 0px;
+}
+
+h1, h2, h3, h4, h5 {
+	font-family: $sanserif-font;
+	margin: 0px;
+}
+
+h1 {
+	font-weight: 700;
+	font-size: 48px;
+	text-indent: -2px;
+	letter-spacing: -1px;
+	line-height: 1;
+	padding: 0px 0px 15px 0px;
+	
+	a {
+		text-decoration: none;
+	}
+	
+	a:hover, a:active {
+		color: #5F5F5F;
+	}
+}
+
+h2 {
+	font-size: 32px;
+	line-height: 1.2;
+	padding: 30px 0px 12px 0px;
+}
+
+h3 {
+	font-size: 24px;
+	line-height: 1.2;
+	padding: 20px 0px 4px 0px;
+}
+
+a {
+    color: #333;
+    -webkit-transition: color .3s;
+    transition: color .3s;
+}
+
+a:focus, a:hover, a:active { 
+	outline: 0 
+}
+
+a:focus, a:hover { 
+	color: #57a3e8 
+}
+
+img {
+	max-width: 100%;
+	margin: 0 auto;
+	border: 0;
+}
+
+p {
+	margin: 0px 0px 30px 0px;
+}
+
+ul, ol {
+	padding: 0px;
+	margin: 0px 0px 30px 25px;
+}
+
+blockquote {
+	font-style: italic;
+	border-left: 5px solid #57a3e8;
+	padding-left: 20px;
+	padding-bottom: 3px;
+	margin: 0px 0px 30px -25px;
+}
+
+blockquote p {
+	margin: 0;
+}
+
+code {
+	color: #000;
+	font-family: $monospace-font;
+	font-size: 80%;
+	max-width: 100%;
+	text-shadow: 0 1px #fff;
+	direction: ltr;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+	-moz-tab-size: 4;
+	-o-tab-size: 4;
+	tab-size: 4;
+	background: #f5f2f0;
+	padding: .2em;
+	border-radius: .3em;
+}
+
+pre {
+	margin: 0px 0px 30px 0px;
+	background: #f5f2f0;
+	padding: 1em;
+	margin: .5em 0;
+	overflow: auto;
+	line-height: 1.2;
+}
+
+/* Site-wide styles */
+
+.container {
+	max-width: 720px;
+	margin: auto;
+	padding: 10px;
+}
+
+.header-container {
+	max-width: 740px;
+	margin: auto;
+}
+
+.header {
+	width: 100%;
+	height: 64px;
+	background-color: #f2f2f2;
+	background:linear-gradient(#f9f9f9, #f1f1f1) no-repeat;
+	border-bottom: 1px solid #e3e3e5;
+	margin-bottom: 42px;
+
+	a.logo {
+		display: block;
+		float: left;
+		height: 64px;
+		width: 256px;
+		text-indent: 100%;
+		white-space: nowrap;
+		overflow: hidden;
+	    background-image: url(/images/logo.png);
+	    background-repeat: no-repeat;
+	    background-position: 0px 10px;
+	    background-size: 211px 43px;
+	}
+
+	a.feed {
+		display: block;
+		float: right;
+		line-height: 64px;
+		text-decoration: none;
+		text-transform: uppercase;
+		font-family: $sanserif-font;
+		font-size: 13px;
+		font-weight: 600;
+		background-image: url(/images/rss.svg);
+		background-repeat: no-repeat;
+		background-size: 10px 10px;
+		background-position: 100% 50%;
+		padding-right: 14px;
+		margin-right: 20px;
+	}
+	
+	a.feed:hover, a.feed:active {
+		color: #777;
+	}
+}
+
+/* Index styles */
+
+.main {
+
+	ul {
+		margin: 0px;
+		list-style-type: none;
+	}
+	
+	li {
+		p {
+			font-size: 17px;
+		}	
+		
+		a.continue {
+			text-decoration: none;
+			font-weight: bold;
+			white-space: nowrap;
+		}
+	}
+}
+
+.entry-link {
+	text-decoration: none;
+	display: block;
+	line-height: 1;
+	margin-bottom: 5px;
+	font-family: $sanserif-font;
+	font-size: 22px;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+.entry-date {
+	display: block;
+	font-size: 12px;
+	color: #b3b3b3;
+	line-height: 1;
+	padding: 0px 0px 8px 0px;
+}
+
+/* Post styles */
+
+.footer {
+	border-top: 1px solid #ddd;
+	padding-bottom: 42px;
+	overflow: auto;
+	
+	h4 {
+		padding: 20px 0px 5px 0px;
+		font-size: 10px;
+		color: #b3b3b3;
+		text-transform: uppercase;
+		letter-spacing: 1px;
+	}
+	
+	.photo {
+		float: left;
+		display: block;
+		width: 120px;
+		height: 120px;
+		background-size: 100px;
+		background-position: 10px 10px;
+		background-repeat: no-repeat;
+	}
+	
+	.info {
+		float: left;
+		display: block;
+		padding-left: 10px;
+	}
+	
+	.author {
+		display: block;
+		line-height: 1;
+		margin-bottom: 5px;
+		font-family: $sanserif-font;
+		font-size: 15px;
+		font-weight: 700;
+		
+		a {
+			text-decoration: none;
+		}
+	}
+	
+	h5 {
+		padding: 10px 0px 5px 0px;
+		font-size: 12px;
+	}
+	
+	span.date {
+		display: block;
+		font-size: 12px;
+		font-style: italic;
+		color: #b3b3b3;
+		line-height: 1;
+	}
+}
