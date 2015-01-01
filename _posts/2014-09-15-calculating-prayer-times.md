@@ -1,11 +1,11 @@
 ---
 layout: post
-title: All About Prayer Times
+title: Islamic Prayer Times
 author: ameir
 ---
 
 What time is Maghrib? A question often followed by reaching for your smartphone. 
-People generally rely on an app on their smartphone or computer to know when it 
+Muslims generally rely on an app on their smartphone or computer to know when it 
 is time to pray. Most prayer time apps require the user to choose various 
 settings in order to obtain the correct prayer times, specifically madhab and 
 calculation method. [Guidance](http://guidanceapp.com/) will automatically 
